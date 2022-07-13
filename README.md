@@ -43,28 +43,28 @@ Once copied and pasted into your broswer, you will be able to see and use Jupyte
 Begin data analysis by importing Panda:
 ![importing Panda](https://user-images.githubusercontent.com/107367097/177222941-d3f1ff41-8da5-485b-a9af-21c90b1c7021.png)
 Import NumPy,Path, and %matplot inline:
-![imports](https://imgur.com/7zDldsX)
+![imports](./screenshots/imports.png)
 
 ---
 
 ## Results
 
 Analyzed the csv file:
-![whale navs](https://imgur.com/kvsAxtR)
+![whale navs](./screenshots/Analyze_the_performance.png)
 
 Determined Volitility
-![Volitility](http://localhost:8889/lab/tree/Quantatative-Analysis/screenshots/Volitility.png)
-![](https://imgur.com/x1KtynG)
+![Volitility](./screenshots/Volitility.png)
 
 Plot Dataset
-![Plot Data](https://imgur.com/Pexhh5o)
+![Plot Data](./screenshots/plot_dataset.png)
+
 
 Calculate Standard Deviation:
-![std](https://imgur.com/BhjM5IS)
+![std](./screenshots/calc_std.png)
 
 
 Calculated rolling beta:
-![beta](https://imgur.com/Ya5x42l)
+![beta](./screenshots/calc_rolling_beta.png)
 
 
 Final Analysis: 
